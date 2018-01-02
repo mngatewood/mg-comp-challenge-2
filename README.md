@@ -5,6 +5,6 @@ This page is a response to the second static comp challenge.  The topic of the p
 ![Comp](https://raw.githubusercontent.com/mngatewood/mg-comp-challenge-2/master/images/comp.jpg)
 
 ##### My page
-![My Page](https://raw.githubusercontent.com/mngatewood/mg-comp-challenge-2/master/images/myPage.png)
+![My Page](https://raw.githubusercontent.com/mngatewood/mg-comp-challenge-2/master/images/mypage.png)
 
 
